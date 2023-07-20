@@ -1,4 +1,4 @@
-import { wisdomCowSays } from "../lib";
+import { wisdomCowSays } from "../dist/lib";
 
 console.log(
   wisdomCowSays()

@@ -1,16 +1,29 @@
 {
   "name": "wisdom-cow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The Wisdom Cow will always find an inspirational quote for you.",
   "bin": {
     "wisdom-cow": "cli/cli.js"
   },
-  "engines": {
-    "node": ">=16"
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist", "cli"],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
   },
-  "keywords": ["cow-say", "fortune", "wisdom", "quotes"],
-  "author": "enzo.testa@oclock.io",
+  "keywords": [
+    "cow-say",
+    "fortune",
+    "wisdom",
+    "quotes"
+  ],
+  "author": "enzoclock",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzoclock/wisdom-cow"
+  },
   "dependencies": {
     "cowsay": "^1.5.0",
     "ts-node": "^10.9.1",
