@@ -48,8 +48,8 @@
     "author": "Marcia Wieder"
   },
   {
-    "text": "I never think of the future",
-    "author": "it comes soon enough."
+    "text": "I never think of the future, it comes soon enough.",
+    "author": null
   },
   {
     "text": "Don't waste your life in doubts and fears: Spend yourself on the work before you, well assured that the right performance of this hour's duties will be the best preparation for the hours or ages that follow it.",
@@ -96,8 +96,8 @@
     "author": "Woodrow Wilson"
   },
   {
-    "text": "Business opportunities are like buses",
-    "author": "there's always another one coming."
+    "text": "Business opportunities are like buses, there's always another one coming.",
+    "author": null
   },
   {
     "text": "I avoid looking forward or backward, and try to keep looking upward.",
@@ -208,8 +208,8 @@
     "author": "Richard Brinsley Sheridan"
   },
   {
-    "text": "I cannot give you the formula for success, but I can give you the formula for failure",
-    "author": "which is: Try to please everybody."
+    "text": "I cannot give you the formula for success, but I can give you the formula for failure, which is: Try to please everybody.",
+    "author": null
   },
   {
     "text": "Careful thinking and hard work will solve nearly all your problems. Try and see for yourself.",
@@ -285,47 +285,47 @@
   },
   {
     "text": "The critical ingredient is getting off your butt and doing something. It's as simple as that. A lot of people have ideas, but there are few who decide to do something about them now. Not tomorrow. Not next week. But today. The true entrepreneur is a doer, not a dreamer.",
-    "author": "Nolan Bushnell, entrepreneur."
+    "author": "Nolan Bushnell, entrepreneur"
   },
   {
     "text": "Never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy.",
-    "author": "Winston Churchill, British Prime Minister."
+    "author": "Winston Churchill, British Prime Minister"
   },
   {
     "text": "Your most unhappy customers are your greatest source of learning.",
-    "author": "Bill Gates, co-founder of Microsoft."
+    "author": "Bill Gates, co-founder of Microsoft"
   },
   {
     "text": "I have not failed. I've just found 10,000 ways that won't work.",
-    "author": "Thomas Edison, inventor."
+    "author": "Thomas Edison, inventor"
   },
   {
     "text": "Entrepreneurship is neither a science nor an art. It is a practice.",
-    "author": "Peter Drucker, management consultant, educator, and author."
+    "author": "Peter Drucker, management consultant, educator, and author"
   },
   {
     "text": "In the modern world of business, it is useless to be a creative, original thinker unless you can also sell what you create.",
-    "author": "David Ogilvy, Co-founder of Ogilvy & Mather."
+    "author": "David Ogilvy, Co-founder of Ogilvy & Mather"
   },
   {
     "text": "Success is how high you bounce after you hit bottom.",
-    "author": "General George Patton."
+    "author": "General George Patton"
   },
   {
     "text": "If you're not embarrassed by the first version of your product, you've launched too late.",
-    "author": "Reid Hoffman, co-founder of LinkedIn."
+    "author": "Reid Hoffman, co-founder of LinkedIn"
   },
   {
     "text": "Positive thinking will let you do everything better than negative thinking will.",
-    "author": "Zig Ziglar, author, salesman, and motivational speaker."
+    "author": "Zig Ziglar, author, salesman, and motivational speaker"
   },
   {
     "text": "I'm not afraid of dying, I'm afraid of not trying.",
-    "author": "Jay Z, musician."
+    "author": "Jay Z, musician"
   },
   {
     "text": "Whatever the mind can conceive and believe, the mind can achieve.",
-    "author": "Dr. Napoleon Hill, author of Think and Grow Rich."
+    "author": "Dr. Napoleon Hill, author of Think and Grow Rich"
   },
   {
     "text": "The longer you're not taking action the more money you're losing",
@@ -377,11 +377,11 @@
   },
   {
     "text": "To never forget that the most important thing in life is the quality of life we lead",
-    "author": "Quoted by Tony Hsieh on Retireat21"
+    "author": "Tony Hsieh on Retireat21"
   },
   {
     "text": "Its better to own the racecourse then the race horse",
-    "author": "Unknown"
+    "author": null
   },
   {
     "text": "When you go to buy, don't show your silver",
@@ -408,12 +408,12 @@
     "author": "Mark Twain"
   },
   {
-    "text": "There is only one success",
-    "author": "to be able to spend your life in your own way"
+    "text": "There is only one success, to be able to spend your life in your own way",
+    "author": null
   },
   {
     "text": "You don't buy a nice car and get rich you get rich and buy a nice car",
-    "author": "Unknown"
+    "author": null
   },
   {
     "text": "Fall seven times, stand up eight",
@@ -433,7 +433,7 @@
   },
   {
     "text": "If you ain't making waves, you ain't kickin' hard enough",
-    "author": "Unknown"
+    "author": null
   },
   {
     "text": "What is not started will never get finished",
@@ -725,7 +725,7 @@
   },
   {
     "text": "If you're not living life on the edge, you're taking up too much space.",
-    "author": "Anonymous"
+    "author": null
   },
   {
     "text": "I wasn't satisfied just to earn a good living. I was looking to make a statement.",
@@ -936,8 +936,8 @@
     "author": "Tony Robbins"
   },
   {
-    "text": "If you don't have a competitive advantage",
-    "author": "don't compete.”"
+    "text": "If you don't have a competitive advantage, don't compete.",
+    "author": "Jack Welch"
   },
   {
     "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
@@ -1030,10 +1030,6 @@
   {
     "text": "Don't worry about failure; you only have to be right once.",
     "author": "Drew Houston, founder of Dropbox"
-  },
-  {
-    "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma",
-    "author": "which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”"
   },
   {
     "text": "Don't be cocky. Don't be flashy. There's always someone better than you.",
@@ -1209,7 +1205,7 @@
   },
   {
     "text": "You have a viable business only if your product is either better or cheaper than the alternatives. If it's not one or the other, you might make some money at first, but it's not a sustainable business.",
-    "author": "Jim Koch, founder of Boston Beer Co."
+    "author": "Jim Koch"
   },
   {
     "text": "Every time I took these bigger risks, the opportunity for a bigger payout was always there.",
@@ -1624,7 +1620,7 @@
     "author": "Princess Diana"
   },
   {
-    "text": "Life is movement-we breathe, we eat, we walk, we move!",
+    "text": "Life is movement-we breathe, we eat, we walk, we move.",
     "author": "John Pierrakos"
   },
   {
@@ -1652,7 +1648,7 @@
     "author": "Richard Bach"
   },
   {
-    "text": "You can do it if you believe you can!",
+    "text": "You can do it if you believe you can.",
     "author": "Napoleon Hill"
   },
   {
@@ -1732,7 +1728,7 @@
     "author": "Sojourner Truth"
   },
   {
-    "text": "Light tomorrow with today!",
+    "text": "Light tomorrow with today.",
     "author": "Elizabeth Browning"
   },
   {
@@ -1908,7 +1904,7 @@
     "author": "Albert Einstein"
   },
   {
-    "text": "Don't be pushed by your problems; be led by your dreams.",
+    "text": "Don't be pushed by your problems, be led by your dreams.",
     "author": null
   },
   {
@@ -1936,7 +1932,7 @@
     "author": "Epictetus"
   },
   {
-    "text": "Change your thoughts, change your life!",
+    "text": "Change your thoughts, change your life.",
     "author": null
   },
   {
@@ -2064,7 +2060,7 @@
     "author": "Immanuel Kant"
   },
   {
-    "text": "Knowing is not enough; we must apply!",
+    "text": "Knowing is not enough; we must apply.",
     "author": "Johann Wolfgang von Goethe"
   },
   {
@@ -3324,7 +3320,7 @@
     "author": "Bruce Lee"
   },
   {
-    "text": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+    "text": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past.",
     "author": "Charlotte Gilman"
   },
   {
@@ -3816,7 +3812,7 @@
     "author": "David Jordan"
   },
   {
-    "text": "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+    "text": "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us.",
     "author": "Richard Bach"
   },
   {
@@ -4084,7 +4080,7 @@
     "author": "Pierre Auguste Renoir"
   },
   {
-    "text": "All I can say about life is, Oh God, enjoy it!",
+    "text": "All I can say about life is, Oh God, enjoy it.",
     "author": "Bob Newhart"
   },
   {
@@ -5004,7 +5000,7 @@
     "author": "Tony Robbins"
   },
   {
-    "text": "You are special, you are unique, you are the best!",
+    "text": "You are special, you are unique, you are the best.",
     "author": "Cathy Pulsifer"
   },
   {
@@ -5177,7 +5173,7 @@
   },
   {
     "text": "Love is the only force capable of transforming an enemy into friend.",
-    "author": "Martin Luther King, Jr."
+    "author": "Martin Luther King, Jr"
   },
   {
     "text": "In all chaos there is a cosmos, in all disorder a secret order.",
