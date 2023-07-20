@@ -1,9 +1,9 @@
 {
   "name": "wisdom-cow",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The Wisdom Cow will always find an inspirational quote for you.",
   "bin": {
-    "wisdom-cow": "cli/cli.js"
+    "wisdom-cow": "cli/index.js"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
